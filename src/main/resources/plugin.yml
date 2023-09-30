@@ -1,0 +1,4 @@
+name: MyFirstStory
+version: '${version}'
+main: space.yurisi.myfirststory.MyFirstStory
+api-version: '1.20'
